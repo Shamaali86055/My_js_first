@@ -10,6 +10,8 @@ body {
   align-items: center;
   justify-content: center;
   background: #0d0d0d;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKWKG3I6GoDYqBD2GqfRtr9kPHO5jCh07LZT-WdQ1qT9YiQ5ITr5qI39f&s=10");
+  background-size: cover;
 }
 .a {
   position: relative;
